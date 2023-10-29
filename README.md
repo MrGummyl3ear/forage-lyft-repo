@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 4.Implement New Classes: I implemented the new classes to handle the logic for determining whether cars should be serviced when they are returned. This involved creating classes and methods that represent the desired functionality.
 
-5.Write Unit Tests: Testing is a crucial part of this project. I wrote unit tests to ensure the refactor was successful and that the code behaves as expected. This helps ensure the reliability of the service component.
+5.Write Unit Tests: Testing is a crucial part of this project. I wrote unit tests for Battery and Engine classes to ensure the refactor was successful and that the code behaves as expected. This helps ensure the reliability of the service component.
 
 ## Contributing
 
